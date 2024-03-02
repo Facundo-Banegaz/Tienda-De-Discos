@@ -1,0 +1,9 @@
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\bin\Debug\Logica.dll
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\bin\Debug\Logica.pdb
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\bin\Debug\Dominio.dll
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\bin\Debug\Dominio.pdb
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\obj\Debug\Logica.dll
+C:\Users\baneg\source\repos\TiendaDeDiscos\Logica\obj\Debug\Logica.pdb

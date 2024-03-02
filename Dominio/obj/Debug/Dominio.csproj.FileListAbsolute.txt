@@ -1,0 +1,16 @@
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\bin\Debug\Dominio.dll
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\obj\Debug\Dominio.dll
+C:\Users\baneg\source\repos\TiendaDeDiscos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\bin\Debug\Dominio.dll
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\obj\Debug\Dominio.dll
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\bin\Debug\CircularProgressBar.dll
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\bin\Debug\WinFormAnimation.dll
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\bin\Debug\CircularProgressBar.xml
+C:\Users\baneg\OneDrive\Escritorio\Tienda_Discos\Dominio\obj\Debug\Dominio.csproj.CopyComplete
